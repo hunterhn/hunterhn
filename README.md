@@ -11,15 +11,13 @@ I design and build cloud systems, I've been building and running systems for 19 
 <hr>
 
 **Currently working on**
-- **Clinic platform (private)** — domain model, API and containerized cloud architecture for clinical and administrative work, with semantic search over records and notes using PostgreSQL + pgvector.
-- **psico-q (private)** — psychometric assessment platform for professionals: tokenized evaluation links, deterministic scoring and longitudinal reports. TypeScript, Node.js, Docker.
+- **Clinic platform (private)** — clinical and administrative work, with semantic search over records and notes.
+- **psico-q (private)** — psychometric assessment platform for professionals.
 - **[Mobile-Harness](https://github.com/hunterhn/Mobile-Harness) (fork of techjarves/Mobile-Harness)** — Android workspace for running coding agents, Linux commands and live web previews on-device. Kotlin.
 
 **Legacy**
 - **[MySQL recovery guide](https://github.com/hunterhn/recuperar-datos-desde-archivos-frm-ibd-de-mysql)** — Spanish-language guide for recovering data from `.frm` and `.ibd` files.
 - **[Torres de Hanoi (Pascal)](https://github.com/hunterhn/Torres-de-Hanoi-Pascal)** — queues, stacks and DOS graphics in Pascal, from 2016.
-- **yoybot (private)** — internal help bot for Yoytec, built in JavaScript (2020).
-- **Spare Parts House (private)** — inventory and sales software for spare-parts warehouses in Panama (2020).
 - **PHP-ODBC JSON export (private)** — a small non-OOP PHP utility for exporting data over ODBC (2020).
 
 <sub>Open to conversations about cloud architecture, platform reliability and AI automation.</sub>
